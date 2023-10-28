@@ -1,8 +1,8 @@
 ## Experiment No. 3: Implement A* Search Algorithm for a Graph
 
-*Name:* THIRISHA S
+## Name: THIRISHA S
 
-*Register Number:* 212222230160
+## Register Number: 212222230160
 
 ### Aim:
 To Implement A* Search Algorithm for a Graph using Python 3.
